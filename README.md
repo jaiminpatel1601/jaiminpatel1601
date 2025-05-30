@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jaimin Patel 👋
 
-🎓 **Recent Computer Science Graduate** from the University of Toronto Mississauga, passionate about **Cybersecurity**, **Python Development**, **Machine Learning**, **Robotics**, and **Front-End Development**.
+🎓 **Recent Computer Science Graduate** from the University of Toronto Mississauga, passionate about **Cybersecurity**, **AI/ML**, and **Robotics**.
 
 ---
 
