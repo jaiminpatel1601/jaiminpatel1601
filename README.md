@@ -23,22 +23,11 @@
 
 ---
 
-## 📈 Projects
+## 📈 Selected Projects
 
-- **Image Inpainting with UNet**
-  - PyTorch implementation with CUDA acceleration to train on 20,000 images.
-  - Reduced model size from 50M to 18M parameters while retaining quality.
-  - [🔗 GitHub Repository](https://github.com/Junaid-Kn/csc490-project)
-
-- **Wellthify – AI-powered Wellness App**
-  - Built with React, NodeJS, Flask, Google Gemini, and Google Cloud Text-to-Speech.
-  - Personalized wellness plans with a 3D model fitness trainer, dietitian, and therapist.
-  - [🔗 GitHub Repository](https://github.com/parthtyagi9/Wellthify)
-
-- **City Classifier**
-  - Trained Random Forest and Neural Network classifiers to classify city data.
-  - Achieved 92% accuracy on validation set; deployed model for hidden test data.
-  - [🔗 Model Report](https://drive.google.com/file/d/1-hyq7EpkBPIEShJ1THRB_Cn7I7GAIJmd/view?usp=sharing)
+- **Image Inpainting with UNet** – PyTorch/CUDA implementation for efficient image restoration. [GitHub](https://github.com/Junaid-Kn/csc490-project)
+- **Wellthify** – AI-powered wellness app using React, NodeJS, and Flask. [GitHub](https://github.com/parthtyagi9/Wellthify)
+- **City Classifier** – ML pipeline for city classification with 92% validation accuracy. [GitHub](https://drive.google.com/file/d/1-hyq7EpkBPIEShJ1THRB_Cn7I7GAIJmd/view?usp=sharing)
 
 ---
 
