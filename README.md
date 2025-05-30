@@ -2,13 +2,13 @@
 
 # Hi there, I'm Jaimin Patel 👋
 
-🎓 **Recent Computer Science Graduate** from the University of Toronto Mississauga, passionate about **Python Development**, **Machine Learning**, **Robotics**, and **Front-End Development**.
+🎓 **Recent Computer Science Graduate** from the University of Toronto Mississauga, passionate about **Cybersecurity**, **Python Development**, **Machine Learning**, **Robotics**, and **Front-End Development**.
 
 ---
 
 ## 🚀 About Me
 
-- 🔍 Exploring the intersection of AI and real-world applications, including medical robotics and generative AI.
+- 🔒 Expanding my knowledge in **cybersecurity**, from foundational concepts to real-world applications.
 - 🤖 Developed an **automated needle insertion** algorithm using the Franka Emika Panda robot as a **research assistant**.
 - 🖼️ Built a knowledge-distilled UNet architecture for **image inpainting**, reducing model size by 60% while maintaining high performance.
 - 🌐 Designed **Wellthify**, an AI-powered wellness app using React, NodeJS, and Flask.
